@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS105195
   title: ཐོབ་ཡིག་བུམ་པ་བཟང་པོ
-  volume: ''
+  volume:
+    ad0f94acf89942beb0fa5f0f7b4ee91d:
+      image_group_id: I1PD36271
+      title: Volume 1 of thob yig bum pa bzang po
+      volume_number: 1
+      total_pages: 216
   author: ''
+ebook_metadata:
+  title: ཐོབ་ཡིག་བུམ་པ་བཟང་པོ
+  author: ''
+  sku: P008056
+  cover: cover.jpg
+  layers:
+  - pagination
